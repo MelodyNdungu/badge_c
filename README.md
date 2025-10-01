@@ -1,2 +1,2 @@
-# badge_c
+# badge_collector
 pro
